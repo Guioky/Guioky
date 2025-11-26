@@ -2,6 +2,14 @@
 
 ✨Just a new Brazilian HTML programmer in the field who wants to learn more and get involved in the larger programming community.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guioky/Guioky/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guioky/Guioky/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guioky/Guioky/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!--
 **Guioky/Guioky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
