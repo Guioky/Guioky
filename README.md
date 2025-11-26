@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, World! 👋
+
+✨Just a new Brazilian HTML programmer in the field who wants to learn more and get involved in the larger programming community.
 
 <!--
 **Guioky/Guioky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
